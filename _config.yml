@@ -1,0 +1,5 @@
+title: "fast-pixelfx"
+description: "Autonomous production-grade pixelfx framework: 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own."
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
